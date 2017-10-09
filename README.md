@@ -1,1 +1,3 @@
-# talk-vigojug-2017--In-Memory-Datagrid-en-arquitecturas-de-tiempo-real
+# In-Memory-Datagrid-en-arquitecturas-de-tiempo-real
+
+Ver o código de exemplo en https://github.com/mgarlorenzo/coherence
